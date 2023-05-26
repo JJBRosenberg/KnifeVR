@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 970057682884366410}
   - component: {fileID: 100521169390579210}
+  - component: {fileID: 2684523284864132154}
   m_Layer: 0
   m_Name: KnifeHolder
   m_TagString: Untagged
@@ -50,7 +51,23 @@ MonoBehaviour:
   _meshParent: {fileID: 0}
   _trailFrameLength: 3
   _colour: {r: 1, g: 0, b: 0, a: 1}
-  _forceAppliedToCut: 3
+  _forceAppliedToCut: 0.1
+--- !u!54 &2684523284864132154
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4280570952748577232}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &4628922542664206882
 GameObject:
   m_ObjectHideFlags: 0
@@ -111,6 +128,20 @@ Transform:
   m_Father: {fileID: 6481742294748106281}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &7129087222752399131
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5960539304972670099}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3838570950203243508, guid: 4ab493183dd83d347a188b334a54ecc2, type: 3}
 --- !u!1001 &6297912602743191725
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -180,6 +211,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30b22baef4493a0468ca620583f92e1a, type: 3}
+--- !u!1 &5960539304972670099 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 422978610430798910, guid: 30b22baef4493a0468ca620583f92e1a,
+    type: 3}
+  m_PrefabInstance: {fileID: 6297912602743191725}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6481742294748106281 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1050860860406281860, guid: 30b22baef4493a0468ca620583f92e1a,
