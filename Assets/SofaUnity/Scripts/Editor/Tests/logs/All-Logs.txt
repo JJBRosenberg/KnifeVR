@@ -1,0 +1,151 @@
+
+ [Log] : Example_01_SimpleLiver.unity = Assets//SofaUnity/Scenes/Examples/Example_01_SimpleLiver.unity
+ [Log] : Example_02_Caduceus.unity = Assets//SofaUnity/Scenes/Examples/Example_02_Caduceus.unity
+ [Log] : Example_03_SimpleObjectsCollision.unity = Assets//SofaUnity/Scenes/Examples/Example_03_SimpleObjectsCollision.unity
+ [Log] : Example_04_DeformableObjectsCollision.unity = Assets//SofaUnity/Scenes/Examples/Example_04_DeformableObjectsCollision.unity
+ [Log] : Example_05_SoftTissue.unity = Assets//SofaUnity/Scenes/Examples/Example_05_SoftTissue.unity
+ [Log] : Example_06_BeamModels.unity = Assets//SofaUnity/Scenes/Examples/Example_06_BeamModels.unity
+ [Log] : Example_07_SPHFluid.unity = Assets//SofaUnity/Scenes/Examples/Example_07_SPHFluid.unity
+ [Log] : Example_08_SPHFluidParticles.unity = Assets//SofaUnity/Scenes/Examples/Example_08_SPHFluidParticles.unity
+ [Log] : Example_09_HeatDiffusion.unity = Assets//SofaUnity/Scenes/Examples/Example_09_HeatDiffusion.unity
+ [Log] : Demo_01_LiverInteraction.unity = Assets//SofaUnity/Scenes/Demos/Interaction/Demo_01_LiverInteraction.unity
+ [Log] : Demo_02_LiverInteraction-HD.unity = Assets//SofaUnity/Scenes/Demos/Interaction/Demo_02_LiverInteraction-HD.unity
+ [Log] : Demo_03_CubeCarving.unity = Assets//SofaUnity/Scenes/Demos/Interaction/Demo_03_CubeCarving.unity
+ [Log] : Demo_04_CubeAdvancedCarving.unity = Assets//SofaUnity/Scenes/Demos/Interaction/Demo_04_CubeAdvancedCarving.unity
+ [Log] : Demo_05_LiverCut.unity = Assets//SofaUnity/Scenes/Demos/Interaction/Demo_05_LiverCut.unity
+ [Log] : Demo_06_LiverCut-CUDA.unity = Assets//SofaUnity/Scenes/Demos/Interaction/Demo_06_LiverCut-CUDA.unity
+ [Log] : Nbr scene Editor: 1
+ [Log] : Nbr scene Play: 1
+ [Log] : Nbr scene Build: 16
+ [Log] : #########  Load Level: 0 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 0 -> Example_01_SimpleLiver  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_0.png
+ [Log] : #########  Load Level: 1 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 1 -> Example_02_Caduceus  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_1.png
+ [Log] : #########  Load Level: 2 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 2 -> Example_03_SimpleObjectsCollision  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_2.png
+ [Log] : #########  Load Level: 3 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 3 -> Example_04_DeformableObjectsCollision  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_3.png
+ [Log] : #########  Load Level: 4 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 4 -> Example_05_SoftTissue  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_4.png
+ [Log] : #########  Load Level: 5 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 5 -> Example_06_BeamModels  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_5.png
+ [Log] : #########  Load Level: 6 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 6 -> Example_07_SPHFluid  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_6.png
+ [Log] : #########  Load Level: 7 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 7 -> Example_08_SPHFluidParticles  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_7.png
+ [Log] : #########  Load Level: 8 ->   #########
+ [Log] : TextureInterpolationModel::Awake
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Warning] : # Sofa Warning: Could not read value for data field position: grid.position
+ [Log] : #########  Close Level: 8 -> Example_09_HeatDiffusion  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_8.png
+ [Log] : #########  Load Level: 9 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : SofaModel_cut create SofaRayCaster CuttingTool with length: 10 Under Name: SofaModel_cut
+ [Log] : SofaModel_01 create SofaRayCaster AttachTool with length: 1 Under Name: SofaModel_01
+ [Log] : #########  Close Level: 9 -> Demo_01_LiverInteraction  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_9.png
+ [Log] : #########  Load Level: 10 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : SofaModel_cut create SofaRayCaster CuttingTool with length: 10 Under Name: SofaModel_cut
+ [Log] : SofaModel_03 create SofaRayCaster AttachTool with length: 1 Under Name: SofaModel_03
+ [Log] : SofaModel_01 create SofaRayCaster AttachTool with length: 1 Under Name: SofaModel_01
+ [Log] : #########  Close Level: 10 -> Demo_02_LiverInteraction-HD  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_10.png
+ [Log] : #########  Load Level: 11 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : # Sofa Log: Loaded plugin: D:/Unity3D/SofaUnity_v22.12/SofaUnity_Package_v22.12/Assets/SofaUnity/Plugins/Native/x64/MeshRefinement.dll
+ [Log] : # Sofa Log: Loaded plugin: D:/Unity3D/SofaUnity_v22.12/SofaUnity_Package_v22.12/Assets/SofaUnity/Plugins/Native/x64/SofaCarving.dll
+ [Warning] : # Sofa Warning: An animation loop is required, but has not been found. Add an animation loop in the root of your scene to fix this warning. The list of available animation loop components is: [ConstraintAnimationLoop, DefaultAnimationLoop, FreeMotionAnimationLoop, MultiStepAnimationLoop, MultiTagAnimationLoop]. A component of type DefaultAnimationLoop will be automatically added for you.
+ [Log] : #########  Close Level: 11 -> Demo_03_CubeCarving  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_11.png
+ [Log] : #########  Load Level: 12 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : # Sofa Log: Loaded plugin: D:/Unity3D/SofaUnity_v22.12/SofaUnity_Package_v22.12/Assets/SofaUnity/Plugins/Native/x64/InfinyToolkit.dll
+ [Log] : #########  Close Level: 12 -> Demo_04_CubeAdvancedCarving  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_12.png
+ [Log] : #########  Load Level: 13 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : #########  Close Level: 13 -> Demo_05_LiverCut  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_13.png
+ [Log] : #########  Load Level: 14 ->   #########
+ [Warning] : # Sofa Warning: Plugin Sofa.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GL.Component loaded
+ [Warning] : # Sofa Warning: Plugin Sofa.GUI.Component loaded
+ [Warning] : # Sofa Warning: Plugin Geomagic loaded
+ [Warning] : # Sofa Warning: Plugin SofaCUDA loaded
+ [Log] : # Sofa Log: init: 5 non-contiguous fixed indices
+ [Log] : #########  Close Level: 14 -> Demo_06_LiverCut-CUDA  #########
+ [Log] : Capture: D:\Unity3D\SofaUnity_v22.12\SofaUnity_Package_v22.12/Assets/SofaUnity/Tests/logs/snap_14.png
